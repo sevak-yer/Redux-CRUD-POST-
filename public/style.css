@@ -1,0 +1,26 @@
+.post-container {
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+    flex: 1
+}
+
+.form-label {
+    font-size: 30px;
+}
+
+.rounded-3 {
+    width: 400px;
+    margin-left: 30px;
+    margin-top: 20px;
+    flex: 1;
+    padding: 10px
+}
+
+.container {
+    display: flex;
+}
+
+#button1 {
+    margin: 5px
+}
